@@ -1,9 +1,5 @@
 ## 👋 Hi there! I'm Soi
 
-### ✍️ Featured Articles
-- [💡 Github Cheat Sheet](https://link.com)
-- [📊 Create Google Data Studio Report](https://link.com)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soirealmax&show_icons=true&theme=dark)
