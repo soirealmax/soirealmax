@@ -1,7 +1,5 @@
 ## 👋 Hi there! I'm Soi
 
-🎓 This is my new GitHub profile created with a clear goal: to deeply explore **Pentesting** and **Red Teaming** through a structured, academic approach.
-
 📚 I'm building this space as a **personal knowledge hub** — from simple scripts and attack demos to deeper insights into adversary simulation, threat emulation, and tool development.
 
 ## 📊 GitHub Stats
