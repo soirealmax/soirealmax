@@ -4,13 +4,13 @@
 
 🎯 I'm currently diving into:
 
-- 🔎 Adversary simulation & red team operations
+- Adversary simulation & red team operations
 
-- 🧠 Deep networking fundamentals
+- Deep networking fundamentals
 
-- ⚙️ Tool development & attack automation
+- Tool development & attack automation
 
-- 💥 Capture The Flag (CTF) labs and practice
+- Capture The Flag (CTF) labs and practice
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soirealmax&show_icons=true&theme=dark)
