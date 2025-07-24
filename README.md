@@ -3,15 +3,10 @@
 📚 This is my new GitHub account, built as a personal knowledge hub — a space to document my journey in offensive security, from simple scripts and attack demos to deeper insights into adversary simulation and tool development.
 
 🎯 I'm currently diving into:
-
 🔎 Adversary simulation & red team operations
-
 🧠 Deep networking fundamentals
-
 ⚙️ Tool development & attack automation
-
 💥 Capture The Flag (CTF) labs and practice
-
 I'm following a technical path aligned with networking and security studies, aiming to build a strong, hands-on foundation in offensive security and red teaming.
 
 ## 📊 GitHub Stats
