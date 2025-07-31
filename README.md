@@ -3,7 +3,7 @@
 📚 This is my new GitHub account, built as a personal knowledge hub — a space to document my journey in offensive security, from simple scripts and attack demos to deeper insights into adversary simulation and tool development.
 
 🎯 I'm currently diving into:
-- Hands-on in Web & App Bug Bounty and VDP programs, hunting for vulnerabilities like SSRF, IDOR, logic flaws, and more — blending manual analysis, reverse engineering, and automated testing.
+- Hands-on in Web & App Bug Bounty, hunting for vulnerabilities like SSRF, IDOR, logic flaws, and more — blending manual analysis, reverse engineering, and automated testing.
 
 - Adversary simulation & red team operations
 
