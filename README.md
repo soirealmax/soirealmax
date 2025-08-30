@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Soi
 
-📚 This is my new GitHub account, built as a personal knowledge hub — a space to document my journey in offensive security, from simple scripts and attack demos to deeper insights into adversary simulation and tool development.
+📚 This is my new GitHub account, created as a personal knowledge hub - a place to document my journey from simple scripts and attack demos to deeper insights into adversary simulation and tool development.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soirealmax&show_icons=true&theme=dark)
